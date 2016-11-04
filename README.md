@@ -1,2 +1,2 @@
-# Grand-Rounds-Image-1
-Image of the clinic sites 
+# Grand-Rounds-Images
+All images from slide deck saved as attached issues to create URLs for R markdown
