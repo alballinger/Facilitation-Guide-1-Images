@@ -1,2 +1,2 @@
-# Grand-Rounds-Images
-All images from slide deck saved as attached issues to create URLs for R markdown
+# Facilitation Guide 1 Images
+All images from slide deck saved in the repository to be linked in R markdown
